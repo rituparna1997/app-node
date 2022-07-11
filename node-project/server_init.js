@@ -4,7 +4,7 @@ let app = express()
 
 // Define request response in root URL (/)
 app.get('/', function (req, res) {
-res.send('Dockerize the my webapp')
+res.send('Dockerize by Rituparna MYNODEJS app')
 })
 
 // Launch listening server on port 8081
